@@ -66,4 +66,8 @@ UCI Machine Learning Repository
 Python, Scikit-learn, Flask, and Open-source community
 
 ---
+## 📜 License
+This project is licensed under the [MIT License](./LICENSE).
+
+----
 🌱 Let's Empower Farmers with Data!
